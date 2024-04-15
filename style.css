@@ -1,0 +1,42 @@
+#menu{
+    background-color: gray;
+    size: 25%;
+    text-align: center;
+}
+header{
+    background-color: green;
+    color: white;
+}
+h2{
+    flex: auto;
+    right: auto;
+}
+#content
+{
+    left: ;
+    background-color: black;
+    color: white;
+}
+#footer
+{   text-align: center;
+    background-color: green;
+    height: 50px;
+}
+#main
+{
+ display: flex;
+}
+body
+{   
+    size: 100%;
+    display: block;
+}
+header
+{
+    display: flex;
+}
+#tytul
+{   
+    color: white;
+    text-align: center;
+}
